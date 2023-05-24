@@ -3,73 +3,73 @@
         "country": "1 UNITED STATES",
         "unit": "DOLLAR",
         "symbol": "USD",
-        "euro_equivalent": "0.928333",
+        "euro_equivalent": "0.924642",
         "us_dollar_equivalent": "1.000000",
-        "phil_peso_equivalent": "55.9670"
+        "phil_peso_equivalent": "55.7970"
     },
     {
         "country": "2 JAPAN",
         "unit": "YEN",
         "symbol": "JPY",
-        "euro_equivalent": "0.006695",
-        "us_dollar_equivalent": "0.007212",
-        "phil_peso_equivalent": "0.4036"
+        "euro_equivalent": "0.006673",
+        "us_dollar_equivalent": "0.007217",
+        "phil_peso_equivalent": "0.4027"
     },
     {
         "country": "3 UNITED KINGDOM",
         "unit": "POUND",
         "symbol": "GBP",
-        "euro_equivalent": "1.151875",
-        "us_dollar_equivalent": "1.240800",
-        "phil_peso_equivalent": "69.4439"
+        "euro_equivalent": "1.149977",
+        "us_dollar_equivalent": "1.243700",
+        "phil_peso_equivalent": "69.3947"
     },
     {
         "country": "4 HONGKONG",
         "unit": "DOLLAR",
         "symbol": "HKD",
-        "euro_equivalent": "0.118612",
-        "us_dollar_equivalent": "0.127769",
-        "phil_peso_equivalent": "7.1508"
+        "euro_equivalent": "0.118120",
+        "us_dollar_equivalent": "0.127747",
+        "phil_peso_equivalent": "7.1279"
     },
     {
         "country": "5 SWITZERLAND",
         "unit": "FRANC",
         "symbol": "CHF",
-        "euro_equivalent": "1.026009",
-        "us_dollar_equivalent": "1.105217",
-        "phil_peso_equivalent": "61.8557"
+        "euro_equivalent": "1.030241",
+        "us_dollar_equivalent": "1.114206",
+        "phil_peso_equivalent": "62.1694"
     },
     {
         "country": "6 CANADA",
         "unit": "DOLLAR",
         "symbol": "CAD",
-        "euro_equivalent": "0.687552",
-        "us_dollar_equivalent": "0.740631",
-        "phil_peso_equivalent": "41.4509"
+        "euro_equivalent": "0.684971",
+        "us_dollar_equivalent": "0.740796",
+        "phil_peso_equivalent": "41.3342"
     },
     {
         "country": "7 SINGAPORE",
         "unit": "DOLLAR",
         "symbol": "SGD",
-        "euro_equivalent": "0.688930",
-        "us_dollar_equivalent": "0.742115",
-        "phil_peso_equivalent": "41.5340"
+        "euro_equivalent": "0.687006",
+        "us_dollar_equivalent": "0.742997",
+        "phil_peso_equivalent": "41.4570"
     },
     {
         "country": "8 AUSTRALIA",
         "unit": "DOLLAR",
         "symbol": "AUD",
-        "euro_equivalent": "0.614649",
-        "us_dollar_equivalent": "0.662100",
-        "phil_peso_equivalent": "37.0558"
+        "euro_equivalent": "0.614794",
+        "us_dollar_equivalent": "0.664900",
+        "phil_peso_equivalent": "37.0994"
     },
     {
         "country": "9 BAHRAIN",
         "unit": "DINAR*",
         "symbol": "BHD",
-        "euro_equivalent": "2.462748",
-        "us_dollar_equivalent": "2.652872",
-        "phil_peso_equivalent": "148.4733"
+        "euro_equivalent": "2.452826",
+        "us_dollar_equivalent": "2.652731",
+        "phil_peso_equivalent": "148.0144"
     },
     {
         "country": "10 KUWAIT",
@@ -83,17 +83,17 @@
         "country": "11 SAUDI ARABIA",
         "unit": "RIYAL",
         "symbol": "SAR",
-        "euro_equivalent": "0.247562",
+        "euro_equivalent": "0.246578",
         "us_dollar_equivalent": "0.266674",
-        "phil_peso_equivalent": "14.9249"
+        "phil_peso_equivalent": "14.8796"
     },
     {
         "country": "12 BRUNEI",
         "unit": "DOLLAR",
         "symbol": "BND",
-        "euro_equivalent": "0.686383",
-        "us_dollar_equivalent": "0.739372",
-        "phil_peso_equivalent": "41.3804"
+        "euro_equivalent": "0.684463",
+        "us_dollar_equivalent": "0.740247",
+        "phil_peso_equivalent": "41.3036"
     },
     {
         "country": "13 INDONESIA",
@@ -107,40 +107,40 @@
         "country": "14 THAILAND",
         "unit": "BAHT****",
         "symbol": "THB",
-        "euro_equivalent": "0.026994",
-        "us_dollar_equivalent": "0.029078",
-        "phil_peso_equivalent": "1.6274"
+        "euro_equivalent": "0.026855",
+        "us_dollar_equivalent": "0.029044",
+        "phil_peso_equivalent": "1.6206"
     },
     {
         "country": "15 UNITED ARAB EMIRATES",
         "unit": "DIRHAM",
         "symbol": "AED",
-        "euro_equivalent": "0.252862",
-        "us_dollar_equivalent": "0.272383",
-        "phil_peso_equivalent": "15.2445"
+        "euro_equivalent": "0.251829",
+        "us_dollar_equivalent": "0.272353",
+        "phil_peso_equivalent": "15.1965"
     },
     {
         "country": "16 EUROPEAN MONETARY UNION",
         "unit": "EURO",
         "symbol": "EUR",
         "euro_equivalent": "1.000000",
-        "us_dollar_equivalent": "1.077200",
-        "phil_peso_equivalent": "60.2877"
+        "us_dollar_equivalent": "1.081500",
+        "phil_peso_equivalent": "60.3445"
     },
     {
         "country": "17 KOREA",
         "unit": "WON",
         "symbol": "KRW",
-        "euro_equivalent": "0.000696",
-        "us_dollar_equivalent": "0.000750",
-        "phil_peso_equivalent": "0.0420"
+        "euro_equivalent": "0.000705",
+        "us_dollar_equivalent": "0.000762",
+        "phil_peso_equivalent": "0.0425"
     },
     {
         "country": "18 CHINA",
         "unit": "YUAN**",
         "symbol": "CNY",
-        "euro_equivalent": "0.131922",
-        "us_dollar_equivalent": "0.142106",
-        "phil_peso_equivalent": "7.9532"
+        "euro_equivalent": "0.131513",
+        "us_dollar_equivalent": "0.142231",
+        "phil_peso_equivalent": "7.9361"
     }
 ]
