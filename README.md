@@ -23,10 +23,9 @@ This repository contains all of my personal projects related to PySpark, a pytho
 
 ### Workflow
 
-1. Using the `selenium` python library, exchange rates data are scraped from [Bangko Sentral ng Pilipinas](https://www.bsp.gov.ph/sitepages/statistics/exchangerate.aspx) official website. The scraped data will then be saved in our local machine for later use.
-2.
+1. Using the `selenium` python library, exchange rates data are scraped from [Bangko Sentral ng Pilipinas](https://www.bsp.gov.ph/sitepages/statistics/exchangerate.aspx) official website. The scraped data will be saved in `/data/raw/rates` as `exchange_rates_[timestamp].csv`.
+2. A jupyter notebook runs spark code that will consume and perform all the necessary transformations required for our scraped data before persisting it into a table inside a relational database.
 3.
-4.
 
 ### Technology Choices
 
