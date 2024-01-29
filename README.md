@@ -21,6 +21,8 @@ This repository contains all of my personal projects related to PySpark, a pytho
 
 ### Solution Architecture
 
+![Alt text](img/Project2_ETL_with_PySpark_Architecure.png)
+
 ### Workflow
 
 1. Using the `selenium` python library, exchange rates data are scraped from [Bangko Sentral ng Pilipinas](https://www.bsp.gov.ph/sitepages/statistics/exchangerate.aspx) official website. The scraped data will be saved in `/data/raw/rates` as `exchange_rates_[timestamp].csv`.
