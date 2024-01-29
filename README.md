@@ -4,7 +4,7 @@ This repository contains all of my personal projects related to PySpark, a pytho
 
 ## Project 1: Google Play Store Apps Data Analysis
 
-### Project Details
+### Project Description
 
 - This
 
@@ -15,7 +15,7 @@ This repository contains all of my personal projects related to PySpark, a pytho
 
 ## Project 2: FOREX Rates ETL with PySpark and Postgres
 
-### Project Details
+### Project Description
 
 - This
 
